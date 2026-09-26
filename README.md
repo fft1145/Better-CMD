@@ -13,7 +13,7 @@
 Better CMD（简称 bcmd）是对 Windows 原生 `cmd` 的全面增强重写，使用 **C++17** 编写，单文件可编译，同时提供：
 
 - **传统控制台交互模式**：保留 cmd 习惯命令，输入即用；
-- **傻瓜式 GUI 按钮界面**：把常用命令做成可视化按钮，鼠标点选即可执行，零学习成本；
+- **GUI 按钮界面**：把常用命令做成可视化按钮，鼠标点选即可执行，零学习成本；
 - **中英双语支持**：内置 `Lang` 多语言模块，运行时切换。
 
 **English**
@@ -21,7 +21,7 @@ Better CMD（简称 bcmd）是对 Windows 原生 `cmd` 的全面增强重写，�
 Better CMD (bcmd) is a complete re-implementation and enhancement of the native Windows `cmd`. It is written in **C++17**, compiled from a single source file, and offers:
 
 - **Traditional console mode**: keeps familiar cmd commands, type and run;
-- **Foolproof GUI button interface**: turns common commands into clickable buttons, zero learning curve;
+- **GUI button interface**: turns common commands into clickable buttons, zero learning curve;
 - **Bilingual support (ZH / EN)**: built-in `Lang` module, switchable at runtime.
 
 ---
