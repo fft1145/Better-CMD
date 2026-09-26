@@ -1,4 +1,4 @@
-# Better CMD (bcmd) v26.9.26.1
+# Better CMD (bcmd) v26.9.26.2
 
 > 由 **fft工作室 - Fungame Craft 总项目组** 开发的 Windows 增强命令行工具。
 >
@@ -121,8 +121,9 @@ g++ -std=c++17 -mwindows -static -O2 -m64 bcmd.cpp -o bcmd.exe \
 ## 💻 平台 / Platform
 
 - 中文：仅支持 **Windows**（依赖 Win32 API / WinHTTP / pktmon 等）。
+        目前的项目文件（exe）仅支持**x64的Windows系统**，如有除此之外的系统，请自行编译！
 - English: **Windows only** (relies on Win32 API / WinHTTP / pktmon, etc.).
-
+           The current project files (exe) only support **x64 Windows systems**. If you have a different system, please compile it yourself!
 ---
 
 ## 👤 作者 / Author
