@@ -129,10 +129,11 @@ g++ -std=c++17 -mwindows -static -O2 -m64 bcmd.cpp -o bcmd.exe \
 
 fft工作室 - Fungame Craft 总项目组
 fft Studio - Fungame Craft Main Project Group
+https://fgame12.netlify.app
 
 ---
 
 ## 📜 许可 / License
 
-- 中文：本项目为闭源软件，禁止未经授权的逆向、二次分发或商业使用。
-- English: This is closed-source software. Unauthorized reverse engineering, redistribution, or commercial use is prohibited.
+- 中文：本项目为开源软件。
+- English: This is opened-source software.
