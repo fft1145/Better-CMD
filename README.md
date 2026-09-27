@@ -84,7 +84,6 @@ fgame.cc/
 │   ├── bcmd.cpp / .exe                   # 主程序源码与可执行文件 / Main source & executable
 │   ├── build_main.bat                    # 主程序编译脚本 / Build script for main program
 │   └── 预览bcmd.html                     # GUI 预览 / GUI preview
-
 └── 使用教程/                              # 中文版 / English 使用说明 / Tutorials
 ```
 
