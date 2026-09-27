@@ -84,7 +84,7 @@ fgame.cc/
 │   ├── bcmd.cpp / .exe                   # 主程序源码与可执行文件 / Main source & executable
 │   ├── build_main.bat                    # 主程序编译脚本 / Build script for main program
 │   └── 预览bcmd.html                     # GUI 预览 / GUI preview
-├── fgame_clear/                          # 精简 / 纯净版 / Lite / clean build
+
 └── 使用教程/                              # 中文版 / English 使用说明 / Tutorials
 ```
 
@@ -121,8 +121,10 @@ g++ -std=c++17 -mwindows -static -O2 -m64 bcmd.cpp -o bcmd.exe \
 ## 💻 平台 / Platform
 
 - 中文：仅支持 **Windows**（依赖 Win32 API / WinHTTP / pktmon 等）。
+  
         目前的项目文件（exe）仅支持**x64的Windows系统**，如有除此之外的系统，请自行编译！
 - English: **Windows only** (relies on Win32 API / WinHTTP / pktmon, etc.).
+  
            The current project files (exe) only support **x64 Windows systems**. If you have a different system, please compile it yourself!
 ---
 
