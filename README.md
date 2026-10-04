@@ -1,4 +1,4 @@
-# Better CMD (bcmd) v26.9.27.1
+# Better CMD (bcmd) v26.10.1
 
 > 由 **fft工作室 - Fungame Craft 总项目组** 开发的 Windows 增强命令行工具。
 >
